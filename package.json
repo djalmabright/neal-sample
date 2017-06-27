@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": "A sample page built with neal-react",
   "repository": "https://github.com/dennybritz/neal-react",
-  "main": "js/app.js",
   "scripts": {
     "start" : "js/app.js", 
     "watch": "webpack --watch",
