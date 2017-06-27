@@ -2,10 +2,10 @@
   "name": "neal-sample",
   "version": "0.1.0",
   "description": "A sample page built with neal-react",
-  "repository": "https://github.com/djalmabright/neal-sample/",
+  "repository": "https://github.com/djalmabright/neal-sample/", 
+    "main" : "js/app.js",
   "scripts": {
-    "start" : "js/app.js", 
-    "watch": "webpack --watch",
+     "watch": "webpack --watch",
     "serve": "webpack-dev-server --content-base public/ --history-api-fallback",
     "build": "webpack -p",
     "test": "echo \"Error: no test specified\" && exit 1",
